@@ -1,4 +1,4 @@
-# Week 4 - Challenge 3 redux
+# Week 3 - Challenge 3 redux
 
 ## Teléfono React
 
